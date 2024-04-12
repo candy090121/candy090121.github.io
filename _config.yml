@@ -12,4 +12,4 @@ theme: jekyll-theme-modernist
 #theme: jekyll-theme-midnight
 
 # Logo settings
-logo: "https://candy090121.github.io/rmc-profile.jpg" # path to your logo image within your repository
+logo: "/rmc-profile.jpg" # path to your logo image within your repository
