@@ -1,12 +1,11 @@
 # candy090121.github.io
-Portfolio Page with Github Themes
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1>RM. CHANDRASEKARAN Portfolio Page</h1>
+<h1>Prof. RM. CHANDRASEKARAN Portfolio Page</h1>
 <h2>1. General information:</h2>
 <table>
 <tr>
@@ -57,24 +56,12 @@ Portfolio Page with Github Themes
 <h2>2. Immediate Past position:</h2>
 <ol>
 <li>
-<p>a. Designation</p>
-<p>Director, Centre for Online and Distance Learning</p>
+<p>Designation</p>
+<p>Professor of Computer Science</p>
 </li>
 <li>
-<p>b. Organisation</p>
-<p>AMET University, Kanathur, Chennai</p>
-</li>
-<li>
-<p>c. Pay scale or Consolidated pay per month</p>
-<p>₹ 75,000/ month</p>
-</li>
-<li>
-<p>d. Date of appointment to the present position</p>
-<p>05/01/2022</p>
-</li>
-<li>
-<p>e. Total experience in the current position (in years & months)</p>
-<p>2 Months</p>
+<p>Organisation</p>
+<p>Annamalai University, Chidamabaram</p>
 </li>
 </ol>
 <h2>3. Educational Qualification (in chronological order from highest)</h2>
