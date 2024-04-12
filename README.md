@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1><img src="/rmc-profile.jpg" height="200px" width="200x" alt="Description of the image">Prof. RM. CHANDRASEKARAN Portfolio Page</h1>
+<h1><img src="/rmc-profile.jpg" height="200px" width="200x" alt="Description of the image"><br>Prof. RM. CHANDRASEKARAN Portfolio Page</h1>
 <h2>1. General information:</h2>
 <table>
 <tr>
