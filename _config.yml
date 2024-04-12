@@ -1,5 +1,14 @@
 title: RMC Web Site
 description: Portfolio created thru Github Pages
-logo: "/rmc-profile.jpg"
-author: RMC
+author: RMC64
+
+# Site settings
+title: RMC Profile in GitHUB
+description: Portfolio web site 
+url: "https://candy090121.github.io" # the base hostname & protocol for your site
+
+# Theme settings
 theme: jekyll-theme-midnight
+
+# Logo settings
+logo: /rmc-profile.jpg # path to your logo image within your repository
